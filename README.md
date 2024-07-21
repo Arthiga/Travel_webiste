@@ -1,5 +1,5 @@
 # Voyage Book
-## Developed a travel website, front-end using React and JavaScript Design - Tailwind css
+## Developed a travel website, front-end using React and JavaScript (Design - Tailwind css)
 # Home
 ![Screenshot (234)](https://github.com/user-attachments/assets/881855ec-3fb8-400d-80a6-837008087e5e)
 # Availabilities
